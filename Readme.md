@@ -51,7 +51,7 @@ void SetError(BaseEditViewInfo cellInfo, string errorIconText) {
 * [How to show error icons for cells when working in unbound mode](https://supportcenter.devexpress.com/ticket/details/k18308/how-to-show-error-icons-for-cells-when-working-in-unbound-mode)
 * [Access, Modify and Validate Rows and Cells of Data-Aware Control - Cheat Sheets and Best Practices](https://supportcenter.devexpress.com/ticket/details/t904183/access-modify-and-validate-rows-and-cells-of-a-data-aware-control-winforms-cheat-sheet)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-show-error-icons&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-show-error-icons&~~~was_helpful=no)
 
