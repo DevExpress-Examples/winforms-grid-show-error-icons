@@ -9,7 +9,7 @@
 
 This example shows how to handle the [CustomDrawCell](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.CustomDrawCell) event to indicate invalid values (display error icons within data cells based on a specific condition).
 
-![](https://raw.githubusercontent.com/DevExpress-Examples/how-to-show-error-icons-for-cells-which-belong-to-an-unbound-column-gridcontrol-e1933/11.1.4%2B/media/winforms-grid-show-error-icons-in-unbound-column.png)
+![](media/winforms-grid-show-error-icons-in-unbound-column.png)
 
 ```csharp
 private void gridView1_CustomDrawCell(object sender, DevExpress.XtraGrid.Views.Base.RowCellCustomDrawEventArgs e) {
@@ -57,3 +57,4 @@ void SetError(BaseEditViewInfo cellInfo, string errorIconText) {
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
